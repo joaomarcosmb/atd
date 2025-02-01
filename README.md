@@ -35,7 +35,7 @@ OBS: É necessário ter o LLM rodando localmente.
 
 1. Clone este repositório:
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/joaomarcosmb/atd.git
 ```
 
 2. Instale as dependências:
